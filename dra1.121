@@ -123,17 +123,6 @@
 </react-partial>
 
 
-
-
-      
-
-          
-
-              <header class="AppHeader" role="banner">
-  <h2 class="sr-only">Navigation Menu</h2>
-
-    
-
     <div class="AppHeader-globalBar pb-2 js-global-bar">
       <div class="AppHeader-globalBar-start">
           <deferred-side-panel data-url="/_side-panels/global">
