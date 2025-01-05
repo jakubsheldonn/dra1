@@ -47,9 +47,6 @@
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-abaca4fda701.js">
 
 
-      <meta name="hostname" content="github.com">
-
-
       <meta name="keyboard-shortcuts-preference" content="all">
       <meta name="hovercards-preference" content="true">
       <meta name="announcement-preference-hovercard" content="true">
