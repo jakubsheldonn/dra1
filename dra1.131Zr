@@ -8,7 +8,6 @@
   <meta name="route-pattern" content="/:user_id(.:format)" data-turbo-transient>
   <meta name="route-controller" content="profiles_repositories" data-turbo-transient>
   <meta name="route-action" content="index" data-turbo-transient>
-
     
   <meta name="route-pattern" content="/:user_id(.:format)" data-turbo-transient>
   <meta name="route-controller" content="profiles_repositories" data-turbo-transient>
