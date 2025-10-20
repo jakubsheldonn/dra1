@@ -1,8 +1,4 @@
 
-<meta name="route-pattern" content="/:user_id(.:format)" data-turbo-transient>
-  <meta name="route-controller" content="profiles_repositories" data-turbo-transient>
-  <meta name="route-action" content="index" data-turbo-transient>
-  <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
   <meta name="route-pattern" content="/:user_id(.:format)" data-turbo-transient>
   <meta name="route-controller" content="profiles_repositories" data-turbo-transient>
